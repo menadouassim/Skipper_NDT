@@ -31,7 +31,7 @@ This project focuses on building and training machine learning models to detect 
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/menadouassim/Skipper_NDT.git
    cd Skipper_NDT
    ```
 
